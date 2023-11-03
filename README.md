@@ -1,5 +1,11 @@
 # Why Students in Business Psychology and International Business Should Learn to Program
 ---
+# Agenda
+- Introduction
+- Reasons to Learn Programming
+- Benefits in Business Psychology and International Business
+- Inspiring Quote
+---
 ## Enhanced Problem-Solving
 - Develops critical thinking and problem-solving abilities.
 - Fosters innovative solutions to complex challenges.
@@ -15,18 +21,12 @@
 ## Global Communication
 - Universal means of communication.
 - Facilitates international collaboration and client engagement.
-
+---
 ## Competitive Advantage
 - Enhances employability and adaptability in evolving job markets.
 - Opens doors to opportunities in diverse sectors.
-
-# Agenda
-
-- Introduction
-- Reasons to Learn Programming
-- Benefits in Business Psychology and International Business
-- Inspiring Quote
-
+---
 # Inspiring Quote
 
 "Learning to program is not just about mastering a language; it's about empowering your mind to solve problems and shape the future." - Unknown
+---
